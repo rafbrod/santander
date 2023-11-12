@@ -5,3 +5,5 @@ Teste 3
 teste 4
 git push
 git pull
+git fetch
+
